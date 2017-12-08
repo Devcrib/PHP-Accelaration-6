@@ -1,21 +1,18 @@
 <?php
-
-/**
- * @param $input
- * @return mixed
- */
-    $fruit = function ($input) {
-        return $input;
-    };
-
-/**
- * @return Closure|string
- */
-function createFunction() {
-        return function() {
-          return 'The fruits';
+function fruits($fruit)
+{
+    echo $fruit . "\n";
+    return function ($fruit2) {
+        if ($fruit2)  echo $fruit2 . "\n";
+        return function ($fruit3) {
+            if ($fruit3) echo $fruit3 . "\n";
+            return function ($fruit4) {
+                if ($fruit4) echo $fruit4 . "\n";
+            };
         };
-    }
+    };
+}
 
-    $fun2 = createFunction();
-     echo $fun2('mango');
+// Test 1
+$f = fruits("Apple")('Apricot')('Avocado')('Banana');
+print_r($f);
