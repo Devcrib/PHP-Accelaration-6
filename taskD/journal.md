@@ -1,0 +1,15 @@
+### Experience as a Team in the Past Week of Acceleration
+
+Acceleration as the name implies is the process to increase the speed at which an object is been driven faster than the previous speed. So, it is in a programming or tech world. Acceleration is also defined according to Encarta 2009, as increase in the rate at which something happens or develops. The acceleration period commenced on the 1st of December with three different faculties; `PHP` `NODE` and `REACT` which can be classified into front-end and back-end faculty. But I will be writing on our experience so far from `PHP` faculty which contain about four people. There is quote which says *nobody is an island of knowledge*, when two or three people gather together to solve a problem, there is always increased in knowledge and deeper understanding about what you think know before. There will be someone that know what you don't know in a group and through that, a knowledge is shared across.
+
+One of the things that we have experienced so far is the ability to understand each other weakness in approaching a problem be it programming or real life; and this give us the chance to be able to help each other and also in the area of solving problem; the use of modular approach as been one of the method we use or we all solve it together. So far we have spent 5days during this session and not only solving problem each but understanding the perspective of life, self-discipline, self-motivation, derivation of self-joy and find happiness in whatever you are doing.
+
+During the course of the acceleration moment, we have been opened to at least part of what we should expect as a **back-end developer**, client will want to have a good, solid, robotic algorithm to performance some function without the help of human when a customer access the web application. Building a solid algorithm is one of the thing that we have been exposed to and each day, we are expressly building each other to fit as a world class developer. To be candid with you I won’t tell you am enjoying this period because we are going through a hot refine, only few people has the understanding of what gold passes through before the glory shine and people began to hunger for it, the same is what we are experiencing; to be make us the best.
+
+Futhermore, the exposure to different `PHP function(s)` and how to implement them as been part of what we have learnt so far as a faculty, this has widen our understanding and knowledge in this language.
+
+In conclusion, acceleration period has continue to be a moment of leaving your comfort zone, so to say but to tear yourself apart to accumulate new understanding around your programming skill. I stand to remain a superior engineer, strive higher and develop with sheer persistence as each day pass on. We are priviledge to be part of this season.
+
+I am from Nest,
+
+A Planet, where we create together.
